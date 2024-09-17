@@ -1,1 +1,5 @@
 hello my dir friends!
+
+Error:
+    Hello, my dir Friends!
+    Привет, мои дорогие друзья!
